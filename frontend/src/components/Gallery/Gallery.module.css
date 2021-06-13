@@ -1,0 +1,17 @@
+.gallery {
+  display: flex;
+  flex-direction: row;
+  /* gap: 40px; */
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  padding: 3rem 0;
+}
+
+@media screen and (max-width: 900px) and (min-width: 600px) {
+  .gallery {
+    justify-content: flex-start;
+    padding: 2px;
+  }
+}

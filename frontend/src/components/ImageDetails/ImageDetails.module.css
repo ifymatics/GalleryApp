@@ -1,0 +1,19 @@
+.imageDetail {
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.36), 0 2px 15px 0 rgba(0, 0, 0, 0.32);
+  width: auto;
+
+  /* box-shadow: rgba(0, 0 0, 0.4); */
+  padding: 20px;
+  margin: 5px;
+  border-radius: 12px;
+}
+.image-width {
+  width: 100%;
+}
+/* .imageDetail:hover {
+  filter: opacity(0.8);
+  box-shadow: 0 2px 8px 0 rgba(0, 0 0, 0.4);
+  background-color: #ccc;
+  padding: 21px;
+  border-radius: 12px;
+} */
